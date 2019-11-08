@@ -1,0 +1,21 @@
+{
+  "name": "autocomplete",
+  "description": "An in-memory autocomplete package based on the trie data structure",
+  "keywords": [
+    "autocomplete",
+    "trie",
+    "search"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/Dhananjay8/autocomplete/issues",
+  "repository": "git://github.com/Dhananjay8/autocomplete.git",
+  "author": "Dhananjay Patil",
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {
+    "should": "0.2.x"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
